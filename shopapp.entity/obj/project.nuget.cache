@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RidPbt1sXSp/omnNLs3HDGcK5SsDNCW3hydKGDeOemtOU1wL940qWYlfVfjRB/wp/reAjJZfBBY8WzXSb+0pWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadikturan\\source\\repos\\komple-web-gelistirme-dersleri\\src\\14-Asp.Net Core\\12-Sipariş Süreci\\6-Siparişlerin Listelenmesi\\shopapp\\shopapp.entity\\shopapp.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadikturan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadikturan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
